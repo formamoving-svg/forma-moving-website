@@ -1,0 +1,1 @@
+Forma Moving Company website. The top banner reproduces the approved header/hero artwork exactly as supplied. Navigation and CTA areas are clickable overlays. Open index.html or deploy this folder to Vercel.
